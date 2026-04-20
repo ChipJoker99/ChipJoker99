@@ -1,38 +1,54 @@
 # 👋 Hi, I'm Giovanni (ChipJoker)
 
-💻 Backend Developer | Data & ML Enthusiast
-
+💻 Backend Developer | ML & Computer Vision Enthusiast
 📍 Italy, Europe
 
 ---
 
 ## 🧑‍💻 About Me
 
-* I build backend systems and data-driven applications
-* Strong interest in Machine Learning & financial data
-* Currently working on real-world data pipelines
+* I design and build backend systems and data-driven applications
+* Focused on scalable APIs, machine learning integration, and system design
+* Interested in applied ML, especially computer vision and real-world pipelines
+* Currently improving my ability to build production-ready systems
 
 ---
 
 ## 🛠 Tech Stack
 
+### 🧩 Backend
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square\&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square\&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square\&logo=postgresql)
+
+### 🤖 ML / Computer Vision
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square\&logo=pytorch)
+
+### ☁️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square\&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square\&logo=amazon-aws)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
+
+
 
 ---
 
 ## 🚀 Featured Project
 
-### 📊 Coin Metric
+### 🪙 Coin Recognition System
 
 🔗 https://github.com/ChipJoker99/coin-metric
 
-* Cryptocurrency analytics & data processing
-* Focus on metrics, trends, and data insights
-* Built with: Python / APIs / Data Processing
-
-👉 This project reflects my interest in **data + backend systems**
+* Computer vision system for coin recognition and classification
+* Trainable ML pipeline for image-based datasets
+* Focus on model training, preprocessing, and prediction workflow
+* Built with Python and PyTorch
 
 ---
 
