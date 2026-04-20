@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Giovanni (ChipJoker)
 
 💻 Backend Developer | ML & Computer Vision Enthusiast
+
 📍 Italy, Europe
 
 ---
@@ -62,5 +63,4 @@
 
 * LinkedIn: https://www.linkedin.com/in/giovannipasqualini/
 * Email: [info@myxologist.it](mailto:info@myxologist.it)
-* Email: [giovannipasqua99@gmail.com](mailto:giovannipasqua99@gmail.com)
 * Website: https://www.myxologist.it
