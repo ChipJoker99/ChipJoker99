@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=visitors&left_color=%23595959&right_color=%2312c448&logo=github)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=chipjoker99-badge&left_text=visitors&left_color=%23595959&right_color=%2312c448&logo=github)
 
 # 👋 Hi, I'm Giovanni (ChipJoker)
 
