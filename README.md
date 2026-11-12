@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ChipJoker99\&show_icons=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ChipJoker99&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 📫 Contact
 
