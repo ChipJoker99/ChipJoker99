@@ -1,56 +1,136 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=chipjoker99-badge&left_text=visitors&left_color=%23595959&right_color=%2312c448&logo=github)
+<!-- Animated Header -->
+<div align="center">
 
-# 👋 Hi, I'm Giovanni (ChipJoker)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Giovanni%20%7C%20ChipJoker&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Engineer%20%7C%20AI%20%26%20Backend&descAlignY=58&descSize=16" width="100%" />
 
-🐍 Python Engineer
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Python+Engineer;Building+APIs+with+FastAPI;Exploring+AI+%26+Machine+Learning;Turning+Ideas+into+Code" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=chipjoker99-badge&left_text=profile%20views&left_color=30363d&right_color=7aa2f7)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Giovanni (ChipJoker)**, a Python Engineer based in Italy.
+
+I'm passionate about software engineering, backend development, and machine learning.
+
+- 🐍 Building applications and APIs with Python
+- ⚡ Developing backend services with FastAPI
+- 🤖 Exploring Machine Learning and Computer Vision
+- 🗄️ Working with databases and scalable architectures
+- 🐳 Using Docker and cloud technologies
 
 📍 Italy, Europe
 
+---
+
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=4EAA25)
+### Languages & Development
 
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
-![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=flat-square&logo=pydantic&logoColor=E92063)
-![REST API](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,vscode,git,github&theme=dark" />
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57)
+### Backend & Databases
 
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,sqlite,docker&theme=dark" />
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+### AI & Machine Learning
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,jupyter&theme=dark" />
+</p>
+
+---
 
 ## 🚀 Featured Project
 
 ### 🪙 Coin Recognition System
 
-🔗 https://github.com/ChipJoker99/coin-metric
+<a href="https://github.com/ChipJoker99/coin-metric">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChipJoker99&repo=coin-metric&theme=tokyonight&hide_border=true" />
+</a>
 
-* Computer vision system for coin recognition and classification
-* Trainable ML pipeline for image-based datasets
-* Focus on model training, preprocessing, and prediction workflow
-* Built with Python and PyTorch
+A computer vision system designed for coin recognition and classification.
 
-## 📊 GitHub Stats
+- 🧠 Machine learning pipeline for image classification
+- 🖼️ Image preprocessing and dataset management
+- 🔬 Model training and prediction workflow
+- 🐍 Built with Python and PyTorch
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ChipJoker99&show_icons=true&theme=tokyonight&hide_border=true)
+[Explore the project →](https://github.com/ChipJoker99/coin-metric)
 
-## 📫 Contact
+---
 
-* LinkedIn: https://www.linkedin.com/in/giovannipasqualini/
-* Email: [info@myxologist.it](mailto:info@myxologist.it)
-* Website: https://www.myxologist.it
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=ChipJoker99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ChipJoker99&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChipJoker99&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ChipJoker99/ChipJoker99/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/giovannipasqualini/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:info@myxologist.it">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.myxologist.it">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+### 💻 Building something interesting, one commit at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+
+</div>
