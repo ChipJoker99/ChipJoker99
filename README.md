@@ -2,43 +2,19 @@
 
 # 👋 Hi, I'm Giovanni (ChipJoker)
 
-💻 Backend Developer | ML & Computer Vision Enthusiast
+🐍 Python Engineer
 
 📍 Italy, Europe
 
----
-
-## 🧑‍💻 About Me
-
-* I design and build backend systems and data-driven applications
-* Focused on scalable APIs, machine learning integration, and system design
-* Interested in applied ML, especially computer vision and real-world pipelines
-* Currently improving my ability to build production-ready systems
-
----
-
 ## 🛠 Tech Stack
-
-### 🧩 Backend
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square\&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square\&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square\&logo=postgresql)
-
-### 🤖 ML / Computer Vision
-
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square\&logo=pytorch)
-
-### ☁️ DevOps & Cloud
-
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square\&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square\&logo=amazon-aws)
-
-### 🛠 Tools
-
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
-
-
 
 ---
 
