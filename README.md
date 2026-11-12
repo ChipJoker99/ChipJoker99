@@ -34,8 +34,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
----
-
 ## 🚀 Featured Project
 
 ### 🪙 Coin Recognition System
@@ -47,13 +45,9 @@
 * Focus on model training, preprocessing, and prediction workflow
 * Built with Python and PyTorch
 
----
-
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ChipJoker99\&show_icons=true)
-
----
 
 ## 📫 Contact
 
